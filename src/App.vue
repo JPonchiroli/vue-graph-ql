@@ -65,7 +65,7 @@ export default {
 		return {
 			prefixes: ["Air", "Jet", "Flight"],
 			sufixes: ["Hub", "Station", "Mart"],
-			domains: ["AirHub, AirStation", "AirMart", "JetHub", "JetStation", "JetMart", "FlightHub", "FlightStation", "FlightMart"]
+			domains: ["AirHub", "AirStation", "AirMart", "JetHub", "JetStation", "JetMart", "FlightHub", "FlightStation", "FlightMart"]
 		};
 	}
 };
